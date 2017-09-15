@@ -1,0 +1,1 @@
+jobstatus: an array which will have status of job whether it is assigned to some worker or not.
